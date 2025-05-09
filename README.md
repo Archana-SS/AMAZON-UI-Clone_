@@ -13,3 +13,8 @@
 * Builds familiarity with reusable UI components
 
 * Provides hands-on experience with front-end best practices
+
+
+![image](https://github.com/user-attachments/assets/5ad5b790-88ba-4745-a511-1295972160b2)
+
+![image](https://github.com/user-attachments/assets/f86c1d9e-51b9-4988-83b7-e98bd5077173)
